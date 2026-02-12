@@ -184,7 +184,7 @@ If you use this code or methodology, please cite:
 ```bibtex
 @article{shirazi2025rna,
   title={RNA stability: a novel perspective on gene regulatory networks in bovine mastitis},
-  author={Shirazi, M.A. and Garaghani, [Supervisor]},
+  author={Shirazi, M.A. and Bakhtiari Zadeh, Salehi},
   journal={BMC Genomics},
   volume={26},
   pages={XX},
@@ -204,10 +204,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **Institution**: Iran University of Medical Sciences
-- **Supervisor**: Dr. Garaghani
+- **Author**: Mohamma Amin Shirazi
+- **Email**: mashirazi96@ut.ac.ir
+- **Institution**: Tehran University of Iran
+- **Supervisor**: Dr. Bakhtiari zadeh 
 
 ---
 
