@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shirazi"
+    given-names: "M.A."
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+title: "RNA Stability Dynamics in Bovine Mastitis: A WGCNA and Network Propagation Approach"
+version: 1.0.0
+doi: 10.1186/s12864-025-12396-x
+date-released: 2025-01-01
+url: "https://github.com/YOUR_USERNAME/bovine-mastitis-rna-stability"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Shirazi"
+      given-names: "M.A."
+  doi: "10.1186/s12864-025-12396-x"
+  journal: "BMC Genomics"
+  title: "RNA stability: a novel perspective on gene regulatory networks in bovine mastitis"
+  year: 2025

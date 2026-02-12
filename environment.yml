@@ -1,0 +1,67 @@
+name: mastitis-stability
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  # Python
+  - python=3.9
+  - pip
+  
+  # Data science
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  
+  # Visualization
+  - matplotlib
+  - seaborn
+  - plotly
+  
+  # Network analysis
+  - networkx
+  
+  # Jupyter
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  
+  # R and Bioconductor (via conda)
+  - r-base=4.2
+  - r-essentials
+  - r-devtools
+  
+  # Bioconductor packages
+  - bioconductor-wgcna
+  - bioconductor-deseq2
+  - bioconductor-clusterprofiler
+  - bioconductor-org.bt.eg.db
+  - bioconductor-enrichplot
+  - bioconductor-biomart
+  
+  # R visualization
+  - r-ggplot2
+  - r-complexheatmap
+  - r-circlize
+  - r-rcolorbrewer
+  - r-gridextra
+  - r-patchwork
+  
+  # R utilities
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-stringr
+  
+  # Pip packages
+  - pip:
+    - ndex2
+    - gprofiler-official
+    - ddot
+    - netcoloc
+
+# To create this environment:
+# conda env create -f environment.yml
+# conda activate mastitis-stability
